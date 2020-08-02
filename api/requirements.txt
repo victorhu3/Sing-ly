@@ -1,0 +1,12 @@
+Flask
+Werkzeug
+librosa
+tensorflow
+keras
+librosa
+numpy
+pandas
+firebase_admin
+scikit-learn
+scipy
+matplotlib
